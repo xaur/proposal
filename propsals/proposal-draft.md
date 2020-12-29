@@ -4,8 +4,7 @@
 
 This proposal is an effort by contributors from Arabic countries to increase the awareness, presence and adoption of Decred Project in the arabic region.
 
-The objective of this proposal is to have a dedicated budget that will cover six months of operations, and that will cover marketing, events, video creation, social media management, user support, community organising and general outreach in arabic.
-
+The objective of this proposal is to have a dedicated budget that will cover six months of operations, and that will cover events and videos creation
 ## Why?
 
 Knowing that the arabic population is over 300 million people, spread across Asia and Africa, this proposal is to set a precedent for funding for a specific region of the world, so that Decred will be known all over the world.
@@ -20,7 +19,7 @@ Creating arabic content:
 
 * [Decred Journal in arabic](https://insaf01.github.io/decred-journal-ar/)
 * [Decred articles](https://insaf01.github.io/decred-arabic/)
-* Articles in know Arabic cryptocurrency websites: [Article 1](https://www.satoshiat.com/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b9%d9%85%d9%84%d8%a9-decred-%d8%a8%d8%b1%d9%85%d8%b2%d9%87%d8%a7-dcr/), [article 2](https://www.satoshiat.com/%d8%a7%d9%84%d8%af%d9%8a%d9%83%d8%b1%d9%8a%d8%af-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a8%d8%af%d8%a3%d8%aa%d8%9f/), [article 3](https://arab-btc.net/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-dcr-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-50-%D9%84%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8/?amp=1), [article 4](https://ar.cointelegraph.com/news/decred-co-founder-explains-rationale-behind-bitcoin-bull-and-bear-cycles?utm_source=Telegram&utm_medium=social)
+* Articles in know Arabic cryptocurrency websites: [Article 1](https://www.satoshiat.com/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b9%d9%85%d9%84%d8%a9-decred-%d8%a8%d8%b1%d9%85%d8%b2%d9%87%d8%a7-dcr/), [article 2](https://www.satoshiat.com/%d8%a7%d9%84%d8%af%d9%8a%d9%83%d8%b1%d9%8a%d8%af-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a8%d8%af%d8%a3%d8%aa%d8%9f/), 
 * Videos about Decred: [Youtube](https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA)
 
 Marketing Decred on social media:
@@ -45,25 +44,25 @@ Networking with key players in the region, searching for talents, organizing and
 
 * Creation of educational videos in arabic in order to explain decred to wider audience : Gathering relevant content, data; scripting; filming and editing
 * Events and workshops about Decred technology and blockchain: room renting, presentation making, social media, printing materials and working hours.
-*  Design and social media managing
+
 
 This proposal budget will cover all marketing materials, travel expenses and sponsorship/event organization as well as working hours.
 
 ## Who?: 
 
-This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf)(Decred Arabia, Community Manager), @Abdulrahmann4 (Decred Arabia, Supervisor), [Zakaria](https://twitter.com/aithzakaria1) (Design, Social Media)
+This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf)(Decred Arabia, Community Manager),and [Zakaria](https://twitter.com/aithzakaria1)(Design, Social Media)
 
 ## Cost
 
 Content production:
 
  | Content                      | Product Units | Unitary Price Total  |
- | Events                       |      6        |      500             |
- | Videos                       |      6        |      600             |
- | social media and design      |               |      1800            |
+ | Events                       |      2        |      500             |
+ | Videos                       |      3        |      600             |
+ 
 
-Total			$14800
+Total			$2800
 
-The total budget of this proposal is USD $8400 to be used during 6 months after approval. Contractor hours will be billed to the 
+The total budget of this proposal is USD $2800 to be used during 6 months after approval. Contractor hours will be billed to the 
 
 Treasury in arrears and after work is completed by local assets. After the 6 months of activities a general report will be shared with the community and a new proposal should be submitted to continue activities.
