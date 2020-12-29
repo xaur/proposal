@@ -57,6 +57,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 Content production:
 
  | Content                      | Product Units | Unitary Price Total  |
+ | :--------------------------- | :-----------: | -------------------: |
  | Events                       |      2        |      500             |
  | Videos                       |      3        |      600             |
  
