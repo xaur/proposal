@@ -26,6 +26,8 @@ The goal here is to build a set of educational videos about Decred technology. S
 
 #### Events
 
+Here is a recap of events we attended/organized to give you an idea of what to expect. Clicking on most event titles will show you the full report.
+
 * [The Digital Economy and Blockchain Technology](https://www.facebook.com/events/241045786567334/). In October 2018 we held our first Decred meetup in Casablanca. 20+ people who attended were mostly cryptocurrency users. The talk was about Decred Project and blockchain technology. (photos: [1](https://twitter.com/in_insaf/status/1056252398476423168) [2](https://www.facebook.com/permalink.php?story_fbid=1884165438286394&id=1836611206375151))
 
 * [IEEE Morocco Blockchain Summit](http://blockchainsummit.ma/). This was the first Blockchain Summit held in Morocco in April 2019. We had a booth for 2 days during which we met people from different backgrounds (businessmen, professors, minister, students, most never heard of Decred), explained Decred technology and got them interested. The organizers asked us to talk about Decred governance and tech at their next event. (photos: [1](https://twitter.com/DecredArabia/status/1121011670808240128) [2](https://twitter.com/DecredArabia/status/1121160292333965313) [3](https://twitter.com/DecredArabia/status/1121695331253673984))
