@@ -12,18 +12,19 @@ The Arabic population is over [400 million](https://en.wikipedia.org/wiki/List_o
 
 Many Arabic states got interested in the potential of blockchains and have invested in specialized departments or have simply signed partnerships with world leaders in the sector. Many startup companies have appeared, creating an ecosystem conducive to the emergence of this technology in the Arabic world.
 
-## How?
+## Past work
 
-Since 2017 we've started our Decred adventure with love and we will continue to do what we have been doing.
+Since 2017 we started our Decred adventure with love and will continue to do what we have been doing.
 
-After our work with Decred, we realized that it is very important to create links between Decred ecosystem and the wider users. And that's what we have been doing since 2018 till now, and we can see clearly that more people are interested and can understand the technology behind it and are changing their perception about it.
+During our work for Decred we realized that it is very important to create links between Decred ecosystem and the wider audience. We have been doing that since 2018, and today we can clearly see that more people are interested, can understand the technology and are changing their perception of it.
 
-**Creating Arabic content:**
+Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent.
 
-* Creating educational videos about Decred technology and how it works to help Arabic people understand it.
-* Videos that were made so far: [History of Money](https://youtu.be/OFONdBbYbBc), [Decred Roadmap](https://youtu.be/_7Ae_Klwqo0), [Decred's Hybrid System](https://youtu.be/k6xXL_ttSDI).
+#### Creating Arabic content
 
-**Networking with key players in the region, searching for talents, organizing, and participating in events:**
+The goal here is to build a set of educational videos about Decred technology. So far we have made videos about [History of Money](https://youtu.be/OFONdBbYbBc), [Decred's History and Roadmap](https://youtu.be/_7Ae_Klwqo0), [Decred's Hybrid System](https://youtu.be/k6xXL_ttSDI), as well as translated Exitus' Staking Tutorial and a few short pitches.
+
+#### Events
 
 * [The Digital Economy and Blockchain Technology](https://www.facebook.com/events/241045786567334/). In October 2018 we held our first Decred meetup in Casablanca. 20+ people who attended were mostly cryptocurrency users. The talk was about Decred Project and blockchain technology and how they work. (photos: [1](https://twitter.com/in_insaf/status/1056252398476423168), [2](https://www.facebook.com/permalink.php?story_fbid=1884165438286394&id=1836611206375151))
 
@@ -45,11 +46,11 @@ After our work with Decred, we realized that it is very important to create link
 
 Collectively these events made people and companies from different backgrounds hear about Decred, and allowed us to onboard new users and establish connections that may help in the future.
 
-**Marketing Decred on social media:**
+#### Arabic social media
 
-* Twitter [@DecredArabia](https://twitter.com/DecredArabia)
-* Telegram: [@decredarabia](https://t.me/decredarabia)
-* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia)
+* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~230 followers
+* Telegram: [@decredarabia](https://t.me/decredarabia), ~90 users
+* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~200 followers
 
 ## Work included in this proposal
 
