@@ -72,15 +72,15 @@ Spending too much on videos at this point is not reasonable, so we've decided to
 
 [One](https://youtu.be/k6xXL_ttSDI) of the planned strategic videos has already been published and is included in this proposal's budget.
 
-Content |                  Details                   | Unit Price | Units | Total Price
-:-------|:-------------------------------------------|:----------:|:-----:|------------:
-Events  |                    Room Renting            |    $300    |   4   |      $1,200
-Events  |                    Food and Drinks         |    $200    |   4   |        $800
-Events  |                    Printing Materials      |    $100    |   4   |        $400
-Events  |                    Working Hours           |    $250    |   4   |      $1,000
-Videos  |  Research + Scripting + Filming + Editing  |    $700    |   3   |      $2,100
-Video   |  Decred Hybrid System                      |    $700    |   1   |        $700 
+Category | Details                                    | Unit Price | Units | Total Price
+:--------|:-------------------------------------------|:----------:|:-----:|------------:
+Events   | Room Renting                               |    $300    |   4   |      $1,200
+Events   | Food and Drinks                            |    $200    |   4   |        $800
+Events   | Printing Materials                         |    $100    |   4   |        $400
+Events   | Working Hours                              |    $250    |   4   |      $1,000
+Videos   | Research + Scripting + Filming + Editing   |    $700    |   3   |      $2,100
+Videos   | Decred Hybrid System                       |    $700    |   1   |        $700
 
-The total budget of this proposal is **USD $6,200** to be used during 6 months, that will start from January and end at June 2020.
+The total budget of this proposal is **USD $6,200** to be used during 6 months from January till June 2020.
 
 **Thanks for reading!**
