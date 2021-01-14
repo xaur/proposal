@@ -8,9 +8,9 @@ The objective of this proposal is to have a dedicated budget that will cover six
 
 ## Why?
 
-Knowing that the Arabic population is over [400 million](https://en.wikipedia.org/wiki/List_of_countries_where_Arabic_is_an_official_language) people, spread across Asia and Africa, this proposal is for representing Decred in this area, so more people will get to know about it and use it.
+The Arabic population is over [400 million](https://en.wikipedia.org/wiki/List_of_countries_where_Arabic_is_an_official_language) spread across Asia and Africa.
 
-Having seen the usefulness of the blockchain, many Arabic states have invested in the creation of specialized departments or have simply signed partnerships with world leaders in the sector. Many startup companies have appeared, creating an ecosystem conducive to the emergence of this technology in the Arabic world.
+Many Arabic states got interested in the potential of blockchains and have invested in specialized departments or have simply signed partnerships with world leaders in the sector. Many startup companies have appeared, creating an ecosystem conducive to the emergence of this technology in the Arabic world.
 
 ## How?
 
