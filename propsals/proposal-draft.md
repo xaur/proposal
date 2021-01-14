@@ -67,14 +67,17 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 Spending too much on videos at this point is not reasonable, so we've decided to record 3 strategic videos for now and use them as entry points we send to new people. If that works well we might add more videos in the next proposal.
 
-Content | Details                                    | Unit Price | Units | Total Price
+[One](https://youtu.be/k6xXL_ttSDI) of the planned strategic videos has already been published and is included in this proposal's budget.
+
+Content |                  Details                   | Unit Price | Units | Total Price
 :-------|:-------------------------------------------|:----------:|:-----:|------------:
 Events  |                    Room Renting            |    $300    |   4   |      $1,200
 Events  |                    Food and Drinks         |    $200    |   4   |        $800
 Events  |                    Printing Materials      |    $100    |   4   |        $400
 Events  |                    Working Hours           |    $250    |   4   |      $1,000
 Videos  |  Research + Scripting + Filming + Editing  |    $700    |   3   |      $2,100
+Video   |  Decred Hybrid System                      |    $700    |   1   |        $700 
 
-The total budget of this proposal is **USD $5,500** to be used during 6 months, that will start from the approval of this proposal.
+The total budget of this proposal is **USD $6,200** to be used during 6 months, that will start from January and end at June 2020.
 
 **Thanks for reading!**
