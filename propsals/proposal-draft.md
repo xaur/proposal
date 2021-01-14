@@ -20,11 +20,11 @@ During our work for Decred we realized that it is very important to create links
 
 Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent.
 
-#### Creating Arabic content
+### Creating Arabic content
 
 The goal here is to build a set of educational videos about Decred technology. So far we have made videos about [History of Money](https://youtu.be/OFONdBbYbBc), [Decred's History and Roadmap](https://youtu.be/_7Ae_Klwqo0), [Decred's Hybrid System](https://youtu.be/k6xXL_ttSDI), as well as translated Exitus' Staking Tutorial and a few short pitches.
 
-#### Events
+### Events
 
 Here is a recap of events we attended/organized to give you an idea of what to expect. Clicking on most event titles will show you the full report.
 
@@ -48,7 +48,7 @@ Here is a recap of events we attended/organized to give you an idea of what to e
 
 Collectively these events made people and companies from different backgrounds hear about Decred, and allowed us to onboard new users and establish connections that may help in the future.
 
-#### Arabic social media
+### Arabic social media
 
 * Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~230 followers
 * Telegram: [@decredarabia](https://t.me/decredarabia), ~90 users
