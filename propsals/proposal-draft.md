@@ -20,9 +20,17 @@ During our work for Decred we realized that it is very important to create links
 
 Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent.
 
-### Creating Arabic content
+### Created Arabic content
 
-The goal here is to build a set of educational videos about Decred technology. So far we have made videos about [History of Money](https://youtu.be/OFONdBbYbBc), [Decred's History and Roadmap](https://youtu.be/_7Ae_Klwqo0), [Decred's Hybrid System](https://youtu.be/k6xXL_ttSDI), as well as translated Exitus' Staking Tutorial and a few short pitches.
+- translated [8 key articles](https://insaf01.github.io/decred-arabic/) including Decred [Technical Brief](https://decred.org/dcr_technical_brief.pdf) and [Business Brief](https://decred.org/brief/)
+
+- translated [23 issues](https://insaf01.github.io/decred-journal-ar/) of Decred Journal and [5 issues](https://insaf01.github.io/politeia-digest-ar/) of Politeia Digest
+
+- produced original educational videos about Decred technology: [History of Money](https://youtu.be/OFONdBbYbBc), [Decred's History and Roadmap](https://youtu.be/_7Ae_Klwqo0), [Decred's Hybrid System](https://youtu.be/k6xXL_ttSDI)
+
+- created Arabic subtitles for some key videos including Exitus' Staking Tutorial and a few short video pitches of Decred
+
+You can check the full list by searching for "Arabic" in the [translations index](https://github.com/decredcommunity/translations/blob/master/index.md).
 
 ### Events
 
