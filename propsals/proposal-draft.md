@@ -24,7 +24,7 @@ Main activities so far have been creating content in Arabic, growing social medi
 
 - translated [8 key articles](https://insaf01.github.io/decred-arabic/) including Decred [Technical Brief](https://decred.org/dcr_technical_brief.pdf) and [Business Brief](https://decred.org/brief/)
 
-- translated [23 issues](https://insaf01.github.io/decred-journal-ar/) of Decred Journal and [5 issues](https://insaf01.github.io/politeia-digest-ar/) of Politeia Digest
+- translated [2 years](https://insaf01.github.io/decred-journal-ar/) of Decred Journal and [5 issues](https://insaf01.github.io/politeia-digest-ar/) of Politeia Digest
 
 - produced original educational videos about Decred technology: [History of Money](https://youtu.be/OFONdBbYbBc), [Decred's History and Roadmap](https://youtu.be/_7Ae_Klwqo0), [Decred's Hybrid System](https://youtu.be/k6xXL_ttSDI)
 
@@ -68,11 +68,13 @@ Collectively these events made people and companies from different backgrounds h
 
 * Events and workshops about Decred technology and blockchain in order to meet people in real life, explain to them this great technology and make them fall in love with it and use it, and increase our network.
 
-This proposal budget will cover all marketing materials, travel expenses and sponsorship/event organization as well as working hours, as for text translations they will not be included in this proposal because they are funded by kozel's [proposal](https://proposals.decred.org/proposals/c093b8a).
+This proposal's budget covers all marketing materials, travel expenses and sponsorship/event organization as well as working hours.
+
+Article and video translations are _not included_ since they are already funded by kozel's translations [proposal](https://proposals.decred.org/proposals/c093b8a).
 
 ## Who?
 
-This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) (Decred Arabia, Community Manager), and [Zakaria](https://twitter.com/aithzakaria1) (Design).
+This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) (Decred Arabia, Community Manager) and [Zakaria](https://twitter.com/aithzakaria1) (Design).
 
 ## Cost
 
@@ -87,7 +89,7 @@ Events   | Food and Drinks                            |    $200    |   4   |    
 Events   | Printing Materials                         |    $100    |   4   |        $400
 Events   | Working Hours                              |    $250    |   4   |      $1,000
 Videos   | Research + Scripting + Filming + Editing   |    $700    |   3   |      $2,100
-Videos   | Decred Hybrid System                       |    $700    |   1   |        $700
+Videos   | Decred Hybrid System (already published)   |    $700    |   1   |        $700
 
 The total budget of this proposal is **USD $6,200** to be used during 6 months from January till June 2020.
 
