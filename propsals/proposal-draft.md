@@ -18,7 +18,7 @@ Since 2017 I've started my Decred adventure with love and will continue to do wh
 
 During my work for Decred I realized that it is very important to create links between Decred ecosystem and the wider audience. I have been doing that since 2018, and today I can clearly see that more people are interested, can understand the technology and are changing their perception of it.
 
-Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent, and here what we did exactly:
+Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent. Highlights of past work is provided below to show what was achieved and what to expect in the future.
 
 ### Created Arabic content
 
@@ -32,9 +32,15 @@ Main activities so far have been creating content in Arabic, growing social medi
 
 You can check the full list by searching for "Arabic" in the [translations index](https://github.com/decredcommunity/translations/blob/master/index.md).
 
+### Arabic social media
+
+* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~230 followers
+* Telegram: [@decredarabia](https://t.me/decredarabia), ~90 users
+* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~200 followers
+
 ### Events
 
-Events we organized and attended so far help to understand what was achieved and what to expect. Clicking on most events below will show you the full report.
+Clicking on most events below will show you the full report.
 
 * [The Digital Economy and Blockchain Technology](https://www.facebook.com/events/241045786567334/). In October 2018 I held my first Decred meetup in Casablanca. 20+ people who attended were mostly cryptocurrency users. The talk was about Decred Project and blockchain technology. (photos: [1](https://twitter.com/in_insaf/status/1056252398476423168) [2](https://www.facebook.com/permalink.php?story_fbid=1884165438286394&id=1836611206375151))
 
@@ -55,12 +61,6 @@ Events we organized and attended so far help to understand what was achieved and
 * [Partnership agreement with OMJD](https://decredcommunity.github.io/events/index/20201128.1). After the previous online meetup with "The Moroccan Organization of Young Decision Makers", in November I signed a partnership agreement with OMJD in order to work together in the field of technology for the benefit of the youth. Per this 2-year agreement I will hold meetups and workshops and present Decred and blockchain tech. A press conference was held at the end of the event and its [recording](https://youtu.be/2gI_RRdIJ5U) was published in a pretty big Arabic channel.
 
 Collectively these events made people and companies from different backgrounds hear about Decred, and allowed us to onboard new users and establish connections that may help in the future.
-
-### Arabic social media
-
-* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~230 followers
-* Telegram: [@decredarabia](https://t.me/decredarabia), ~90 users
-* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~200 followers
 
 ## Work included in this proposal
 
