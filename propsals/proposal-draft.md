@@ -18,7 +18,7 @@ Since 2017 I've started my Decred adventure with love and will continue to do wh
 
 During my work for Decred I realized that it is very important to create links between Decred ecosystem and the wider audience. I have been doing that since 2018, and today I can clearly see that more people are interested, can understand the technology and are changing their perception of it.
 
-Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent.
+Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent, and here what we did exactly:
 
 ### Created Arabic content
 
@@ -68,7 +68,7 @@ Collectively these events made people and companies from different backgrounds h
 
 * Events and workshops about Decred technology and blockchain in order to meet people in real life, explain to them this great technology and make them fall in love with it and use it, and increase our network.
 
-This proposal budget will cover all marketing materials, travel expenses and sponsorship/event organization as well as working hours.
+This proposal budget will cover all marketing materials, travel expenses and sponsorship/event organization as well as working hours, as for text translations they will not be included in this proposal because they are funded by kozel's [proposal](https://proposals.decred.org/proposals/c093b8a).
 
 ## Who?
 
