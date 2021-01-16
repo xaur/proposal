@@ -18,7 +18,7 @@ Since 2017 I've started my Decred adventure with love and will continue to do wh
 
 During my work for Decred I realized that it is very important to create links between Decred ecosystem and the wider audience. I have been doing that since 2018, and today I can clearly see that more people are interested, can understand the technology and are changing their perception of it.
 
-Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent, and here what we did exactly:
+Main activities so far have been creating content in Arabic, growing social media presence, and organizing/attending events to build our network of connections and search for talent. Highlights of past work is provided below to show what was achieved and what to expect in the future.
 
 ### Created Arabic content
 
@@ -34,7 +34,7 @@ You can check the full list by searching for "Arabic" in the [translations index
 
 ### Events
 
-Events we organized and attended so far help to understand what was achieved and what to expect. Clicking on most events below will show you the full report.
+Clicking on most events below will show you the full report.
 
 * [The Digital Economy and Blockchain Technology](https://www.facebook.com/events/241045786567334/). In October 2018 I held my first Decred meetup in Casablanca. 20+ people who attended were mostly cryptocurrency users. The talk was about Decred Project and blockchain technology. (photos: [1](https://twitter.com/in_insaf/status/1056252398476423168) [2](https://www.facebook.com/permalink.php?story_fbid=1884165438286394&id=1836611206375151))
 
