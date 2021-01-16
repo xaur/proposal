@@ -32,6 +32,12 @@ Main activities so far have been creating content in Arabic, growing social medi
 
 You can check the full list by searching for "Arabic" in the [translations index](https://github.com/decredcommunity/translations/blob/master/index.md).
 
+### Arabic social media
+
+* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~230 followers
+* Telegram: [@decredarabia](https://t.me/decredarabia), ~90 users
+* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~200 followers
+
 ### Events
 
 Clicking on most events below will show you the full report.
@@ -55,12 +61,6 @@ Clicking on most events below will show you the full report.
 * [Partnership agreement with OMJD](https://decredcommunity.github.io/events/index/20201128.1). After the previous online meetup with "The Moroccan Organization of Young Decision Makers", in November I signed a partnership agreement with OMJD in order to work together in the field of technology for the benefit of the youth. Per this 2-year agreement I will hold meetups and workshops and present Decred and blockchain tech. A press conference was held at the end of the event and its [recording](https://youtu.be/2gI_RRdIJ5U) was published in a pretty big Arabic channel.
 
 Collectively these events made people and companies from different backgrounds hear about Decred, and allowed us to onboard new users and establish connections that may help in the future.
-
-### Arabic social media
-
-* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~230 followers
-* Telegram: [@decredarabia](https://t.me/decredarabia), ~90 users
-* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~200 followers
 
 ## Work included in this proposal
 
