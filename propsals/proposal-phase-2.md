@@ -10,7 +10,7 @@ End Date:
 
 ## Summary
 
-This proposal renews the funding for continuing the creation of content and communications in Arabic for 10 months.
+This proposal renews the funding for continuing the creation of content and communications in Arabic for 10 - 12 months.
 
 The first proposal can be found [here](https://proposals-archive.decred.org/proposals/d0c32d5)
 
