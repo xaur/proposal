@@ -20,6 +20,8 @@ Following, a summary of the first [Decred Arabia Communications and Content Crea
 
 ### Events
 
+Because of Covid-19 situation, all the events rooms were closed and the gatherings were prohibited, so we did our best in this period to organize and participate in events.
+
 * [Blockchain, AI, and Big Data](https://decredcommunity.github.io/events/index/20210206.1) in Casablanca, Morocco. On the occasion of Decred 5th birthday, I’ve had the occasion to organize an event with OMJD. There were 3 talks on machine learning, big data, and blockchains. In the latter, I’ve talked about how Decred blockchain was used in Brazil municipal elections. 20 people were expected but 40 showed up, and ~500 watched it live. In the end, there was a small celebration of the anniversary.
 
 * [Arab Blockchain Week 2021](https://decredcommunity.github.io/events/index/20210612.1) - Whova, Internet. Arab Blockchain Week is a decentralized community-organized initiative. There was no single owner but a group of supporters sharing their passion about blockchain technology, Education, Business and the importance of empowering the Arab community in blockchain for a better future . I've introduced on-chain and off-chain governance and examples of both in Decred (see links and slides in the [report](https://decredcommunity.github.io/events/index/20210612.1)).
@@ -42,9 +44,7 @@ Following, a summary of the first [Decred Arabia Communications and Content Crea
 * Telegram: @decredarabia, ~78 users
 * Facebook: DecredArabia, ~246 followers
 
-### Summary and finances
-
-Because of Covid-19 situation, all the events rooms were closed and the gatherings were prohibited, so we did our best in this period to organize and participate in events.
+### Finances
 
 For the videos, due to { finish this paragraph }
 
