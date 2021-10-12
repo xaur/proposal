@@ -43,10 +43,10 @@ For the videos, due to
 
 Here's a more detailed breakdown of our spending:
 
-Area     | Spent         | Allocated  | Remaining  
-:--------|:--------------|:----------:|:----------:
-Events   |  $1,260       |   $3,400   |   $2,160        
-Videos   |  $700         |   $2800    |   $2,100    
+| Area    | Spent  | Allocated | Remaining |
+|:--------|-------:|----------:|----------:|
+| Events  | $1,260 |    $3,400 |    $2,160 |
+| Videos  |   $700 |    $2,800 |    $2,100 |
 
 ### Work included in this proposal
 
