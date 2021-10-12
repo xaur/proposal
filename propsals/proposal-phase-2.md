@@ -13,7 +13,9 @@ This proposal renews the funding for continuing the creation of content and comm
 
 ## Phase 1 report
 
-Following, a summary of the first [Decred Arabia Communications and Content Creation Proposal](https://proposals.decred.org/proposals/d0c32d5) that was submitted in January 2021 and expired at the end of June 2021.
+The first [Decred Arabia Communications and Content Creation](https://proposals.decred.org/proposals/d0c32d5) proposal covered work since January till approximately June 2021, or until the funds run out.
+
+Below is a summary of Phase 1 activity and expenses.
 
 ### Events
 
@@ -47,7 +49,7 @@ Our social media accounts and changes since the previous proposal:
 
 For the videos, due to { finish this paragraph }
 
-Here's a more detailed breakdown of our spending:
+Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the rest remains in the treasury.
 
 | Area    | Allocated | Spent  | Remaining |
 |:--------|----------:|-------:|----------:|
