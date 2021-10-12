@@ -47,6 +47,9 @@ Here's a more detailed breakdown of our spending:
 |:--------|----------:|-------:|----------:|
 | Events  |    $3,400 | $1,260 |    $2,160 |
 | Videos  |    $2,800 |   $700 |    $2,100 |
+| Total   |    $6,200 | $1,960 |    $4,260 |
+
+{ check amounts and math }
 
 ### Work included in this proposal
 
