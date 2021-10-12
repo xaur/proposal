@@ -39,9 +39,11 @@ Because of COVID-19, all the event rooms were closed and meetings were prohibite
 
 ### Social media
 
-* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~261 followers
-* Telegram: [@decredarabia](https://t.me/decredarabia), ~78 users
-* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~246 followers
+Our social media accounts and changes since the previous proposal:
+
+* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~260 followers (+30)
+* Telegram: [@decredarabia](https://t.me/decredarabia), ~80 users (-10)
+* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~250 followers (+50)
 
 ### Finances
 
