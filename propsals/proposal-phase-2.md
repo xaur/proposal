@@ -11,11 +11,9 @@ End Date:
 
 This proposal renews the funding for continuing the creation of content and communications in Arabic for 10-12 months.
 
-The first proposal can be found [here](https://proposals.decred.org/proposals/d0c32d5).
+## Phase 1 report
 
 Following, a summary of the first [Decred Arabia Communications and Content Creation Proposal](https://proposals.decred.org/proposals/d0c32d5) that was submitted in January 2021 and expired at the end of June 2021.
-
-## Phase 1 report
 
 ### Events
 
