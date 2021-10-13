@@ -53,11 +53,9 @@ Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the 
 
 | Area    | Allocated | Spent  | Remaining |
 |:--------|----------:|-------:|----------:|
-| Events  |    $3,400 | $1,260 |    $2,160 |
+| Events  |    $3,400 | $1,260 |    $2,140 |
 | Videos  |    $2,800 |   $700 |    $2,100 |
-| Total   |    $6,200 | $1,960 |    $4,260 |
-
-{ check amounts and math }
+| Total   |    $6,200 | $1,960 |    $4,240 |
 
 ## Work included in this proposal
 
