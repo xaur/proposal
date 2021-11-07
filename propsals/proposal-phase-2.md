@@ -52,7 +52,7 @@ For the videos, due to { finish this paragraph }
 Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the rest remains in the treasury.
 
 | Area    | Allocated | Spent  | Remaining |
-|:--------|----------:|-------:|----------:|
+|:--------|-----------|--------|----------:|
 | Events  |    $3,400 | $1,260 |    $2,140 |
 | Videos  |    $2,800 |   $700 |    $2,100 |
 | Total   |    $6,200 | $1,960 |    $4,240 |
@@ -68,3 +68,22 @@ Creation of educational videos in Arabic in order to explain Decred and its feat
 ## Who?
 
 This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) (Decred Arabia, Community Manager) and [Zakaria](https://twitter.com/aithzakaria1) (Design).
+
+## Budget
+
+We propose that the proposal be allocated a budget of USD 33,000 for twelve months. All funds not spent by the proposal will remain in the project Treasury.
+
+We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
+
+Special thanks to bee for his help and insightful feedback in polishing this proposal.
+
+
+| Category | Details Unit                               | Price  | Units | Total Price |
+|:---------|--------------------------------------------|--------|-------|------------:|
+| Events   | Room Renting                               |  $300  |   10  |   $3.000    |
+| Events   | Food and Drinks                            |  $200  |   10  |   $2.00O    |
+| Events   | Printing Materials                         |  $100  |   10  |   $1.000    |
+| Events   | Working Hours                              |  $250  |   10  |   $2.500    |
+| Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |   $2.100          |
+
+Thanks for reading!
