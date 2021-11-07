@@ -2,7 +2,7 @@
 
 ```
 Domain: Marketing
-Amount: $ 10.600
+Amount: $ 10,600
 Start Date: 2021/12/01
 End Date: 2022/12/01
 ```
@@ -71,7 +71,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose that the proposal be allocated a budget of USD 10.600 for twelve months. All funds not spent by the proposal will remain in the project Treasury.
+We propose that the proposal be allocated a budget of USD 10,600 for twelve months. All funds not spent by the proposal will remain in the project Treasury.
 
 We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
 
@@ -80,10 +80,10 @@ Special thanks to bee for his help and insightful feedback in polishing this pro
 
 | Category | Details Unit                               | Price  | Units | Total Price |
 |:---------|--------------------------------------------|--------|-------|------------:|
-| Events   | Room Renting                               |  $300  |   10  |   $3.000    |
-| Events   | Food and Drinks                            |  $200  |   10  |   $2.000    |
-| Events   | Printing Materials                         |  $100  |   10  |   $1.000    |
-| Events   | Working Hours                              |  $250  |   10  |   $2.500    |
-| Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |   $2.100          |
+| Events   | Room Renting                               |  $300  |   10  |   $3,000    |
+| Events   | Food and Drinks                            |  $200  |   10  |   $2,000    |
+| Events   | Printing Materials                         |  $100  |   10  |   $1,000    |
+| Events   | Working Hours                              |  $250  |   10  |   $2,500    |
+| Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |   $2,100          |
 
 Thanks for reading!
