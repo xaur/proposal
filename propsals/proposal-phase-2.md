@@ -13,9 +13,7 @@ This proposal renews the funding for continuing the creation of content and comm
 
 ## Phase 1 report
 
-The first [Decred Arabia Communications and Content Creation](https://proposals.decred.org/proposals/d0c32d5) proposal covered work since January till approximately June 2021, or until the funds run out.
-
-Below is a summary of Phase 1 activity and expenses.
+The first [Decred Arabia Communications and Content Creation](https://proposals.decred.org/proposals/d0c32d5) proposal covered work since January 2021. Below is a summary of Phase 1 activity and expenses.
 
 ### Events
 
