@@ -1,4 +1,4 @@
-# Decred Arabia Communications and Content Creation 2022
+# Decred Arabia Communications and Content 2022
 
 ```
 Domain: Marketing
