@@ -71,7 +71,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose that the proposal be allocated a budget of USD 10,600 for twelve months. All funds not spent by the proposal will remain in the project Treasury.
+We propose that the proposal be allocated a budget of USD 10.600 for twelve months. All funds not spent by the proposal will remain in the project Treasury.
 
 We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
 
