@@ -3,8 +3,8 @@
 ```
 Domain: Marketing
 Amount: $ 10,600
-Start Date: 2021/12/01
-End Date: 2022/12/01
+Start Date: 2021-12-01
+End Date: 2022-12-01
 ```
 
 ## Summary
@@ -71,12 +71,11 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose that the proposal be allocated a budget of USD 10,600 for twelve months. All funds not spent by the proposal will remain in the project Treasury.
+We propose that the proposal be allocated a budget limit of **USD 10,600** for 12 months. All funds not spent by the proposal will remain in the project treasury.
 
 We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
 
-Special thanks to bee for his help and insightful feedback in polishing this proposal.
-
+Special thanks to @bee for his help and insightful feedback in polishing this proposal.
 
 | Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
