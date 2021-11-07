@@ -52,7 +52,7 @@ For the videos, due to { finish this paragraph }
 Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the rest remains in the treasury.
 
 | Area    | Allocated | Spent  | Remaining |
-|:--------|-----------|--------|----------:|
+|:--------|----------:|-------:|----------:|
 | Events  |    $3,400 | $1,260 |    $2,140 |
 | Videos  |    $2,800 |   $700 |    $2,100 |
 | Total   |    $6,200 | $1,960 |    $4,240 |
@@ -78,12 +78,12 @@ We really appreciate your time and consideration. Yet again, any and all helpful
 Special thanks to bee for his help and insightful feedback in polishing this proposal.
 
 
-| Category | Details Unit                               | Price  | Units | Total Price |
-|:---------|--------------------------------------------|--------|-------|------------:|
-| Events   | Room Renting                               |  $300  |   10  |   $3,000    |
-| Events   | Food and Drinks                            |  $200  |   10  |   $2,000    |
-| Events   | Printing Materials                         |  $100  |   10  |   $1,000    |
-| Events   | Working Hours                              |  $250  |   10  |   $2,500    |
-| Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |   $2,100          |
+| Category | Details                                    | Price  | Units | Total Price |
+|----------|--------------------------------------------|-------:|------:|------------:|
+| Events   | Room Renting                               |  $300  |   10  |     $3,000  |
+| Events   | Food and Drinks                            |  $200  |   10  |     $2,000  |
+| Events   | Printing Materials                         |  $100  |   10  |     $1,000  |
+| Events   | Working Hours                              |  $250  |   10  |     $2,500  |
+| Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |     $2,100  |
 
 Thanks for reading!
