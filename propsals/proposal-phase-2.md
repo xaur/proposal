@@ -79,11 +79,11 @@ Special thanks to @bee for his help and insightful feedback in polishing this pr
 
 | Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
-| Events   | Room Renting                               |  $300  |   10  |     $3,000  |
-| Events   | Food and Drinks                            |  $200  |   10  |     $2,000  |
-| Events   | Printing Materials                         |  $100  |   10  |     $1,000  |
-| Events   | Working Hours                              |  $250  |   10  |     $2,500  |
-| Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |     $2,100  |
+| Events   | Room renting                               |  $300  |   10  |     $3,000  |
+| Events   | Food and drinks                            |  $200  |   10  |     $2,000  |
+| Events   | Printing materials                         |  $100  |   10  |     $1,000  |
+| Events   | Working hours                              |  $250  |   10  |     $2,500  |
+| Videos   | Research + scripting + filming + editing   |  $700  |    3  |     $2,100  |
 |          | Total                                      |        |       |    $10,600  |
 
 Thanks for reading!
