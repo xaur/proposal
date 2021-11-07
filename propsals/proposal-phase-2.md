@@ -2,9 +2,9 @@
 
 ```
 Domain: Marketing
-Amount: $
-Start Date: 
-End Date: 
+Amount: $ 10.600
+Start Date: 2021/12/01
+End Date: 2022/12/01
 ```
 
 ## Summary
