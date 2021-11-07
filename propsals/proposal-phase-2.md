@@ -85,5 +85,6 @@ Special thanks to bee for his help and insightful feedback in polishing this pro
 | Events   | Printing Materials                         |  $100  |   10  |     $1,000  |
 | Events   | Working Hours                              |  $250  |   10  |     $2,500  |
 | Videos   | Research + Scripting + Filming + Editing   |  $700  |    3  |     $2,100  |
+|          | Total                                      |        |       |    $10,600  |
 
 Thanks for reading!
