@@ -42,10 +42,11 @@ Our social media accounts and changes since the previous proposal:
 * Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~260 followers (+30)
 * Telegram: [@decredarabia](https://t.me/decredarabia), ~80 users (-10)
 * Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~250 followers (+50)
+* Youtube: [DecredArabia](https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA), ~Subscribers, and 1.6k views.
+
+Due to health issues, I produced fewer videos than expected.
 
 ### Finances
-
-For the videos, due to some personal issues, I wasn't able to make them.
 
 Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the rest remains in the treasury.
 
@@ -56,8 +57,6 @@ Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the 
 | Total   |    $6,200 | $1,960 |    $4,240 |
 
 The above expenses do not include the upcoming [DevFest](https://gdg.community.dev/events/details/google-gdg-casablanca-presents-devfest-casablanca-2021/) event on Nov 27. I will update it when the cost is known.
-
-{ TODO: double check the reported expenses the last moment before publishing! }
 
 ## Work included in this proposal
 
