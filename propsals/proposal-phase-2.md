@@ -45,7 +45,7 @@ Our social media accounts and changes since the previous proposal:
 
 ### Finances
 
-For the videos, due to { finish this paragraph }
+For the videos, due to some personal issues, I wasn't able to make them.
 
 Phase 1 proposal had a limit of **$6,200** but only ~32% of it was used and the rest remains in the treasury.
 
@@ -69,7 +69,7 @@ This proposal's budget covers all marketing materials, travel expenses and spons
 
 ## Who?
 
-This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) (Decred Arabia, Community Manager) and [Zakaria](https://twitter.com/aithzakaria1) (Design).
+This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) (Decred Arabia, Community Manager) and [Zakaria](https://twitter.com/aithzakaria1) (Design). Other contributors are welcome to join.
 
 ## Budget
 
