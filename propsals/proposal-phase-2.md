@@ -72,10 +72,6 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 We propose a budget limit of **USD 10,600** for 12 months (average ~$880/month). All funds not spent by the proposal will remain in the treasury.
 
-We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
-
-Special thanks to @bee for his help and insightful feedback in polishing this proposal.
-
 | Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
 | Events   | Room renting                               |  $300  |   10  |     $3,000  |
@@ -84,5 +80,9 @@ Special thanks to @bee for his help and insightful feedback in polishing this pr
 | Events   | Working hours                              |  $250  |   10  |     $2,500  |
 | Videos   | Research + scripting + filming + editing   |  $700  |    3  |     $2,100  |
 |          | Total                                      |        |       |    $10,600  |
+
+Special thanks to @bee for his help and insightful feedback in polishing this proposal.
+
+We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
 
 Thanks for reading!
