@@ -70,7 +70,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose that the proposal be allocated a budget limit of **USD 10,600** for 12 months. All funds not spent by the proposal will remain in the project treasury.
+We propose a budget limit of **USD 10,600** for 12 months (average ~$880/month). All funds not spent by the proposal will remain in the treasury.
 
 We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
 
