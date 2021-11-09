@@ -2,7 +2,7 @@
 
 ```
 Domain: Marketing
-Amount: $ 10,600
+Amount: $10,600
 Start Date: 2021-12-01
 End Date: 2022-11-30
 ```
@@ -19,7 +19,7 @@ The first [Decred Arabia Communications and Content Creation](https://proposals.
 
 Because of COVID-19, all the event rooms were closed and meetings were prohibited, so we did our best in this period to organize and participate in events.
 
-* [Blockchain, AI, and Big Data](https://decredcommunity.github.io/events/index/20210206.1) in Casablanca, Morocco. On the occasion of Decred's 5th birthday, I took the opportunity to organize an event with [Moroccan Organization of Young Decision-Makers OMJD](https://www.facebook.com/OMJDC). There were 3 talks on machine learning, big data, and blockchains. In the latter, I talked about how Decred blockchain was used in Brazil municipal elections. 20 people were expected but 40 showed up and ~500 watched it live. In the end, there was a small celebration of the anniversary.
+* [Blockchain, AI, and Big Data](https://decredcommunity.github.io/events/index/20210206.1) in Casablanca, Morocco. On the occasion of Decred's 5th birthday, I took the opportunity to organize an event with [Moroccan Organization of Young Decision-Makers](https://www.facebook.com/OMJDC) (OMJD). There were 3 talks on machine learning, big data, and blockchains. In the latter, I talked about how Decred blockchain was used in Brazil municipal elections. 20 people were expected but 40 showed up and ~500 watched it live. In the end, there was a small celebration of the anniversary.
 
 * [Arab Blockchain Week 2021](https://decredcommunity.github.io/events/index/20210612.1) - Whova, Internet. Arab Blockchain Week is a decentralized community-organized initiative. There was no single owner but a group of supporters sharing their passion about blockchain technology, education, business and the importance of empowering the Arab community in blockchain for a better future. I introduced on-chain and off-chain governance and examples of both in Decred (see links and slides in the [report](https://decredcommunity.github.io/events/index/20210612.1)).
 
@@ -42,7 +42,7 @@ Our social media accounts and changes since the previous proposal:
 * Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~260 followers (+30)
 * Telegram: [@decredarabia](https://t.me/decredarabia), ~80 users (-10)
 * Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~250 followers (+50)
-* Youtube: [DecredArabia](https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA), ~60 Subscribers, and 1.6k views.
+* Youtube: [DecredArabia](https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA), ~60 subscribers and 1.6K views
 
 ### Finances
 
