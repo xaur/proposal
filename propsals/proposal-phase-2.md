@@ -72,6 +72,8 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 We propose a budget limit of **USD 10,600** for 12 months, with the average of $880/month. For comparison, the previous [proposal](https://proposals.decred.org/proposals/d0c32d5) had 6+ months with an average $1,030/month. All funds not spent by the proposal will remain in the treasury.
 
+Billable work will be done between December 1, 2021 and November 30, 2022.
+
 | Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
 | Events   | Room renting                               |  $300  |   10  |     $3,000  |
