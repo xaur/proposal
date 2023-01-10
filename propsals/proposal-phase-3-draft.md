@@ -66,13 +66,18 @@ Billable work will be done between February 1, January 1, 2023.
 | Events   | Decred and JCI                             |  $500  |    3  |     $1,500  |
 | Events   | Decred and NIIAT                           |  $500  |    4  |     $2,000  |
 | Events   | Decred and MYC                             |  $500  |    2  |     $1,000  |
-| Events   | EMEC EXPO.                                 | $1,00  |    1  |     $1,000  |
+| Events   | EMEC EXPO                                  | $1,00  |    1  |     $1,000  |
 | Events   | Room renting                               |  $300  |    3  |       $900  |
 | Events   | Food and drinks                            |  $200  |    3  |       $600  |
 | Events   | Printing materials                         |  $100  |    3  |       $300  |
 | Events   | Working hours                              |  $250  |    3  |       $750  |
 | Videos   | Research + scripting + filming + editing   |  $700  |    3  |     $2,100  |
 |          | Total                                      |        |       |    $12,550  |
+
+* GDG Google Developer Groups
+* JCI: The Junior Chamber International of Morocco
+* NIIAT: National Institute of Innovation and Advanced Technology
+* MYC: Moroocan Youth Center for strategic studies
 
 Special thanks to @bee for his help and insightful feedback in polishing this proposal.
 
