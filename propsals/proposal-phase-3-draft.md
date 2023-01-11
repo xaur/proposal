@@ -57,7 +57,7 @@ Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the r
 
 We propose a budget limit of USD 12,550 for 12 months, with the average of $1,046/month. **All funds not spent by the proposal will remain in the treasury.**
 
-Billable work will be done between February 1, January 1, 2023.
+Billable work will be done between February 1, 2023 and January 1, 2023.
 
  Category | Details                                     | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
