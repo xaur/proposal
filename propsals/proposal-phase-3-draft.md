@@ -2,7 +2,7 @@
 
 This proposal is a summary and a continuation for Arabic content and communication over the next twelve months so that more people in the Arabic region know about Decred and use it.
 
-As cryptocurrency adoption has skyrocketed in the Middle East and North Africa (MENA) region. According to a [survey](https://blog.chainalysis.com/reports/middle-east-north-africa-cryptocurrency-geography-report-2022-preview/) by blockchain analytics platform Chainalysis, MENA countries have the fastest-growing cryptocurrency industry in the world, accounting for 9.2% of global digital currency transactions from July 2021 to June 2022. Three of the top 30 nations in this year’s Crypto Adoption Index are located in the MENA region: Turkey (ranking 12), Egypt (ranking 14), and Morocco (ranking 24).
+Cryptocurrency adoption has skyrocketed in the Middle East and North Africa (MENA) region. According to a [survey](https://blog.chainalysis.com/reports/middle-east-north-africa-cryptocurrency-geography-report-2022-preview/) by blockchain analytics platform Chainalysis, MENA countries have the fastest-growing cryptocurrency industry in the world, accounting for 9.2% of global digital currency transactions from July 2021 to June 2022. Three of the top 30 nations in this year’s Crypto Adoption Index are located in the MENA region: Turkey (ranking 12), Egypt (ranking 14), and Morocco (ranking 24).
 
 ## Phase 2 report
 
@@ -10,9 +10,9 @@ Below is a summary of activity and expenses for the second [Decred Arabia Commun
 
 #### Events
 
-* [Blockchain and digitalization](https://decredcommunity.github.io/events/index/20220108.1) - Casablanca, Morocco. This was a two days event held in collaboration with [RNI Ain Choq](https://rni.ma/fr/) which is  a Moroccan political party that stands for “National Gathering of Independents Party”.  The talk was about how Blockchain and Decred technology work. I used the Decred wallet (Decrediton) as an example and discussed how it works and how transactions work.
+* [Blockchain and digitalization](https://decredcommunity.github.io/events/index/20220108.1) - Casablanca, Morocco. This was a two days event held in collaboration with [RNI Ain Choq](https://rni.ma/fr/) which is a Moroccan political party that stands for “National Gathering of Independents Party”. The talk was about how blockchain and Decred technology work. I used the Decred wallet (Decrediton) as an example and discussed how it works and how transactions work.
 * [Decred 6th Anniversary](https://decredcommunity.github.io/events/index/20220206.1) - Casablanca, Morocco. On the occasion of the 6th birthday of Decred, we had a great time celebrating this occasion with cake and music. Besides the Decred Arabia community, there were representatives of the RNI party, and after the speech of Decred achievements over the last six years, representatives of RNI gave a short thank you speech to the Decred Group, and the party began with music, and everyone enjoyed the cake and pastries.
-* [Decred and AEFDS Association](https://decredcommunity.github.io/events/index/20220326.1) - Deroua, Casablanca. AEFDS Deroua (education, training and social development association) invited me to talk about Blockchain Technology and Decred Technology at the half-day training organized for their members.
+* [Decred and AEFDS Association](https://decredcommunity.github.io/events/index/20220326.1) - Deroua, Casablanca, Morocco. AEFDS Deroua (education, training and social development association) invited me to talk about Blockchain Technology and Decred Technology at the half-day training organized for their members.
 * [EMEC EXPO 2022 (2nd edition)](https://decredcommunity.github.io/events/index/20220326.1) - Grand Mogador Hotel, Casablanca, Morocco. EMEC EXPO is a two-day event dedicated to the company’s digital transformation, axed on e-marketing, e-commerce, hosting & cloud, mobile internet, social networks, and digital signage. During these two days, we had the opportunity to represent Decred technology and meet new people from the technology field by exhibiting in a booth. We had many questions about how Decred works and the areas of use of its technology.
 * [Partnership signature with JCI](https://decredcommunity.github.io/events/index/20220601.1) - Casablanca, Morocco. We have signed a partnership with JCI to provide training to young members of this institute and companies concerning Blockchain technology and Decred technology.
 
@@ -29,7 +29,7 @@ After the end of the proposal, we still participated in two events:
 * Facebook: DecredArabia, ~393 followers (+143)
 * Youtube: DecredArabia, ~73 subscribers (+13) and 2,372 views (+772)
 
-Got quoted in multiple outlets [Altayar](https://atalayar.com/index.php/fr/content/le-maroc-est-à-la-pointe-de-lutilisation-de-bitcoin-en-afrique-du-nord), [Almaghribalarabi](https://almaghribalarabi.com/fr/actualites/maroc-les-achats-de-bitcoins-est-en-forte-hausse/), [bobcutmag](https://bobcutmag.com/2022/07/13/does-morocco-accept-bitcoin/)
+Got quoted in multiple outlets like [Altayar](https://atalayar.com/index.php/fr/content/le-maroc-est-à-la-pointe-de-lutilisation-de-bitcoin-en-afrique-du-nord), [AlmaghribAlarabi](https://almaghribalarabi.com/fr/actualites/maroc-les-achats-de-bitcoins-est-en-forte-hausse/), and [Bob Cut Mag](https://bobcutmag.com/2022/07/13/does-morocco-accept-bitcoin/).
 
 #### Work included in this proposal
 
@@ -74,11 +74,11 @@ Billable work will be done between February 1, 2023 and January 1, 2023.
 | Videos   | Research + scripting + filming + editing   |   $700 |     3 |      $2,100 |
 |          | Total                                      |        |       |     $12,550 |
 
-* GDG Google Developer Groups
+* GDG: Google Developer Groups
 * JCI: The Junior Chamber International of Morocco
 * NIIAT: National Institute of Innovation and Advanced Technology
-* MYC: Moroocan Youth Center for strategic studies
+* MYC: Moroccan Youth Center for strategic studies
 
 Special thanks to @bee for his help and insightful feedback in polishing this proposal.
 
-I appreciate your time and consideration reading, discussing and voting for this proposal. Thank you all!.
+I appreciate your time and consideration reading, discussing and voting for this proposal. Thank you all!
