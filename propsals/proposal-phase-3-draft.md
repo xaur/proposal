@@ -8,7 +8,7 @@ Cryptocurrency adoption has skyrocketed in the Middle East and North Africa (MEN
 
 Below is a summary of activity and expenses for the second [Decred Arabia Communications and Content 2022](https://proposals.decred.org/record/0ff082d) proposal that started in December 2021 and ended in November 2022. Please see the first [proposal](https://proposals.decred.org/record/7cf62bd) for a recap of the prior work in 2018-2020.
 
-#### Events
+### Events
 
 * [Blockchain and digitalization](https://decredcommunity.github.io/events/index/20220108.1) - Casablanca, Morocco. This was a two days event held in collaboration with [RNI Ain Choq](https://rni.ma/fr/) which is a Moroccan political party that stands for “National Gathering of Independents Party”. The talk was about how blockchain and Decred technology work. I used the Decred wallet (Decrediton) as an example and discussed how it works and how transactions work.
 * [Decred 6th Anniversary](https://decredcommunity.github.io/events/index/20220206.1) - Casablanca, Morocco. On the occasion of the 6th birthday of Decred, we had a great time celebrating this occasion with cake and music. Besides the Decred Arabia community, there were representatives of the RNI party, and after the speech of Decred achievements over the last six years, representatives of RNI gave a short thank you speech to the Decred Group, and the party began with music, and everyone enjoyed the cake and pastries.
@@ -21,7 +21,7 @@ After the end of the proposal, we still participated in two events:
 * [Women Entrepreneurship](https://decredcommunity.github.io/events/index/20221220.1) - Technopark, Casablanca, Morocco. As the MENA community manager for Decred Group, I was asked to speak on a panel hosted by JCI Casablanca. It was a great opportunity to talk about a DAO and my experience working with Decred. At the end of the ceremony I was given a trophy as a women entrepreneur.
 * [The Blockchain's Power — Settat Morocco](https://twitter.com/in_insaf/status/1612464295664648193) GDG Settat-Marrakech has invited us to talk about the power of blockchain at the Faculty of Science and Technology of Settat. Most of the attendants were computer science students and developers, and it was a great opportunity to talk about blockchain and Decred and to explain how things work in the real world.
 
-#### Social Media
+### Social Media
 
 * Twitter: @DecredArabia, ~282 followers (+22)
 * Twitter: @in_insaf, ~381 followers
@@ -31,7 +31,7 @@ After the end of the proposal, we still participated in two events:
 
 Got quoted in multiple outlets like [Altayar](https://atalayar.com/index.php/fr/content/le-maroc-est-à-la-pointe-de-lutilisation-de-bitcoin-en-afrique-du-nord), [AlmaghribAlarabi](https://almaghribalarabi.com/fr/actualites/maroc-les-achats-de-bitcoins-est-en-forte-hausse/), and [Bob Cut Mag](https://bobcutmag.com/2022/07/13/does-morocco-accept-bitcoin/).
 
-#### Work included in this proposal
+## Work included in this proposal
 
 1\. Events and workshops about Decred technology and blockchain in order to meet people in real life, explain to them this great technology and make them fall in love with it and use it, and increase our network.
 
@@ -43,7 +43,7 @@ This proposal's budget covers all marketing materials, travel expenses and spons
 
 This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) 'Insaf Nori' (Decred Arabia, Community Manager), [Khalidesi](https://twitter.com/khalidesitra) (Marketing) and [FatimaZahra](https://www.facebook.com/fati.fatighanm) (Filming and Editing). Other contributors are welcome to join.
 
-#### Finances
+## Phase 2 Finances
 
 Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the rest remains in the treasury.
 
@@ -53,7 +53,7 @@ Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the res
 | Videos  |    $2,100 |   $240 |    $1,860 |
 | Total   |   $10,600 | $3,140 |    $7,460 |
 
-#### Budget
+## Budget
 
 We propose a budget limit of USD 12,550 for 12 months, with the average of $1,046/month. **All funds not spent by the proposal will remain in the treasury.**
 
