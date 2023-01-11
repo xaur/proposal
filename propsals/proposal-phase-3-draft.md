@@ -21,7 +21,7 @@ After the end of the proposal, we still participated in two events:
 * [Women Entrepreneurship](https://decredcommunity.github.io/events/index/20221220.1) - Technopark, Casablanca, Morocco. As the MENA community manager for Decred Group, I was asked to speak on a panel hosted by JCI Casablanca. It was a great opportunity to talk about a DAO and my experience working with Decred. At the end of the ceremony I was given a trophy as a women entrepreneur.
 * [The Blockchain's Power — Settat Morocco](https://twitter.com/in_insaf/status/1612464295664648193) GDG Settat-Marrakech has invited us to talk about the power of blockchain at the Faculty of Science and Technology of Settat. Most of the attendants were computer science students and developers, and it was a great opportunity to talk about blockchain and Decred and to explain how things work in the real world.
 
-### Social Media
+### Social media
 
 * Twitter: @DecredArabia, ~282 followers (+22)
 * Twitter: @in_insaf, ~381 followers
@@ -43,7 +43,7 @@ This proposal's budget covers all marketing materials, travel expenses and spons
 
 This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) 'Insaf Nori' (Decred Arabia, Community Manager), [Khalidesi](https://twitter.com/khalidesitra) (Marketing) and [FatimaZahra](https://www.facebook.com/fati.fatighanm) (Filming and Editing). Other contributors are welcome to join.
 
-## Phase 2 Finances
+## Phase 2 finances
 
 Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the rest remains in the treasury.
 
