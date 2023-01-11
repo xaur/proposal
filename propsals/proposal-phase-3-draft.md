@@ -33,6 +33,16 @@ Our social media accounts and changes since the [previous proposal](https://prop
 
 Got quoted in multiple outlets like [Altayar](https://atalayar.com/index.php/fr/content/le-maroc-est-à-la-pointe-de-lutilisation-de-bitcoin-en-afrique-du-nord), [AlmaghribAlarabi](https://almaghribalarabi.com/fr/actualites/maroc-les-achats-de-bitcoins-est-en-forte-hausse/), and [Bob Cut Mag](https://bobcutmag.com/2022/07/13/does-morocco-accept-bitcoin/).
 
+### Finances
+
+Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the rest remains in the treasury.
+
+| Area    | Allocated | Spent  | Remaining |
+|:--------|----------:|-------:|----------:|
+| Events  |    $8,500 | $2,900 |    $5,600 |
+| Videos  |    $2,100 |   $240 |    $1,860 |
+| Total   |   $10,600 | $3,140 |    $7,460 |
+
 ## Work included in this proposal
 
 1\. Events and workshops about Decred technology and blockchain in order to meet people in real life, explain to them this great technology and make them fall in love with it and use it, and increase our network.
@@ -44,16 +54,6 @@ This proposal's budget covers all marketing materials, travel expenses and spons
 ## Who?
 
 This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) 'Insaf Nori' (Decred Arabia, Community Manager), [Khalidesi](https://twitter.com/khalidesitra) (Marketing) and [FatimaZahra](https://www.facebook.com/fati.fatighanm) (Filming and Editing). Other contributors are welcome to join.
-
-## Phase 2 finances
-
-Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the rest remains in the treasury.
-
-| Area    | Allocated | Spent  | Remaining |
-|:--------|----------:|-------:|----------:|
-| Events  |    $8,500 | $2,900 |    $5,600 |
-| Videos  |    $2,100 |   $240 |    $1,860 |
-| Total   |   $10,600 | $3,140 |    $7,460 |
 
 ## Budget
 
