@@ -23,11 +23,11 @@ After the end of the proposal, we still participated in two events:
 
 #### Social Media
 
-* Twitter: @DecredArabia, ~282 followers (+22)
-* Twitter: @in_insaf, ~381 followers
-* Telegram: @decredarabia, ~95 users (+15)
-* Facebook: DecredArabia, ~393 followers (+143)
-* Youtube: DecredArabia, ~73 subscribers (+13) and 2,372 views (+772)
+* Twitter: @DecredArabia, ~282 followers (+22)
+* Twitter: @in_insaf, ~381 followers
+* Telegram: @decredarabia, ~95 users (+15)
+* Facebook: DecredArabia, ~393 followers (+143)
+* Youtube: DecredArabia, ~73 subscribers (+13) and 2,372 views (+772)
 
 Got quoted in multiple outlets like [Altayar](https://atalayar.com/index.php/fr/content/le-maroc-est-à-la-pointe-de-lutilisation-de-bitcoin-en-afrique-du-nord), [AlmaghribAlarabi](https://almaghribalarabi.com/fr/actualites/maroc-les-achats-de-bitcoins-est-en-forte-hausse/), and [Bob Cut Mag](https://bobcutmag.com/2022/07/13/does-morocco-accept-bitcoin/).
 
@@ -45,7 +45,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 #### Finances
 
-Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the rest remains in the treasury.
+Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the rest remains in the treasury.
 
 | Area    | Allocated | Spent  | Remaining |
 |:--------|----------:|-------:|----------:|
@@ -55,7 +55,7 @@ Phase 2 proposal had a limit of $10,600 but only ~30% of it was used and the r
 
 #### Budget
 
-We propose a budget limit of USD 12,550 for 12 months, with the average of $1,046/month. **All funds not spent by the proposal will remain in the treasury.**
+We propose a budget limit of USD 12,550 for 12 months, with the average of $1,046/month. **All funds not spent by the proposal will remain in the treasury.**
 
 Billable work will be done between February 1, 2023 and January 1, 2023.
 
@@ -81,4 +81,4 @@ Billable work will be done between February 1, 2023 and January 1, 2023.
 
 Special thanks to @bee for his help and insightful feedback in polishing this proposal.
 
-I appreciate your time and consideration reading, discussing and voting for this proposal. Thank you all!
+I appreciate your time and consideration reading, discussing and voting for this proposal. Thank you all!
