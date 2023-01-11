@@ -66,7 +66,7 @@ Billable work will be done between February 1, January 1, 2023.
 | Events   | Decred and JCI                             |  $500  |    3  |     $1,500  |
 | Events   | Decred and NIIAT                           |  $500  |    4  |     $2,000  |
 | Events   | Decred and MYC                             |  $500  |    2  |     $1,000  |
-| Events   | EMEC EXPO                                  | $1,00  |    1  |     $1,000  |
+| Events   | EMEC EXPO                                  | $1,000 |    1  |     $1,000  |
 | Events   | Room renting                               |  $300  |    3  |       $900  |
 | Events   | Food and drinks                            |  $200  |    3  |       $600  |
 | Events   | Printing materials                         |  $100  |    3  |       $300  |
