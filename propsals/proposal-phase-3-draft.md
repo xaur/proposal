@@ -59,20 +59,20 @@ We propose a budget limit of USD 12,550 for 12 months, with the average of $1,
 
 Billable work will be done between February 1, 2023 and January 1, 2023.
 
- Category | Details                                     | Price  | Units | Total Price |
+| Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
-| Events   | Decred Anniversary                         | $1,000 |    1  |     $1,000  |
-| Events   | Decred and GDG                             |  $700  |    2  |     $1,400  |
-| Events   | Decred and JCI                             |  $500  |    3  |     $1,500  |
-| Events   | Decred and NIIAT                           |  $500  |    4  |     $2,000  |
-| Events   | Decred and MYC                             |  $500  |    2  |     $1,000  |
-| Events   | EMEC EXPO                                  | $1,000 |    1  |     $1,000  |
-| Events   | Room renting                               |  $300  |    3  |       $900  |
-| Events   | Food and drinks                            |  $200  |    3  |       $600  |
-| Events   | Printing materials                         |  $100  |    3  |       $300  |
-| Events   | Working hours                              |  $250  |    3  |       $750  |
-| Videos   | Research + scripting + filming + editing   |  $700  |    3  |     $2,100  |
-|          | Total                                      |        |       |    $12,550  |
+| Events   | Decred Anniversary                         | $1,000 |     1 |      $1,000 |
+| Events   | Decred and GDG                             |   $700 |     2 |      $1,400 |
+| Events   | Decred and JCI                             |   $500 |     3 |      $1,500 |
+| Events   | Decred and NIIAT                           |   $500 |     4 |      $2,000 |
+| Events   | Decred and MYC                             |   $500 |     2 |      $1,000 |
+| Events   | EMEC EXPO                                  | $1,000 |     1 |      $1,000 |
+| Events   | Room renting                               |   $300 |     3 |        $900 |
+| Events   | Food and drinks                            |   $200 |     3 |        $600 |
+| Events   | Printing materials                         |   $100 |     3 |        $300 |
+| Events   | Working hours                              |   $250 |     3 |        $750 |
+| Videos   | Research + scripting + filming + editing   |   $700 |     3 |      $2,100 |
+|          | Total                                      |        |       |     $12,550 |
 
 * GDG Google Developer Groups
 * JCI: The Junior Chamber International of Morocco
