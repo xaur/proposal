@@ -23,11 +23,13 @@ After the end of the proposal, we still participated in two events:
 
 ### Social media
 
-* Twitter: @DecredArabia, ~282 followers (+22)
-* Twitter: @in_insaf, ~381 followers
-* Telegram: @decredarabia, ~95 users (+15)
-* Facebook: DecredArabia, ~393 followers (+143)
-* Youtube: DecredArabia, ~73 subscribers (+13) and 2,372 views (+772)
+Our social media accounts and changes since the [previous proposal](https://proposals.decred.org/record/0ff082d):
+
+* Twitter: [@DecredArabia](https://twitter.com/DecredArabia), ~282 followers (+22)
+* Twitter: [@in_insaf](https://twitter.com/in_insaf), ~381 followers
+* Telegram: [@decredarabia](https://t.me/decredarabia), ~95 users (+15)
+* Facebook: [DecredArabia](https://www.facebook.com/DecredArabia), ~393 followers (+143)
+* Youtube: [DecredArabia](https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA), ~73 subscribers (+13) and 2,372 views (+772)
 
 Got quoted in multiple outlets like [Altayar](https://atalayar.com/index.php/fr/content/le-maroc-est-à-la-pointe-de-lutilisation-de-bitcoin-en-afrique-du-nord), [AlmaghribAlarabi](https://almaghribalarabi.com/fr/actualites/maroc-les-achats-de-bitcoins-est-en-forte-hausse/), and [Bob Cut Mag](https://bobcutmag.com/2022/07/13/does-morocco-accept-bitcoin/).
 
